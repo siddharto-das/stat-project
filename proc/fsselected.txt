@@ -1,0 +1,925 @@
+Abaetetuba@PA
+Abreu e Lima@PE
+Acaraú@CE
+Acopiara@CE
+Afogados da Ingazeira@PE
+Afonso Cláudio@ES
+Alagoinha@PB
+Alagoinhas@BA
+Alegre@ES
+Alegrete@RS
+Alexandria@RN
+Alfenas@MG
+Almenara@MG
+Alpinópolis@MG
+Alta Floresta@MT
+Altamira@PA
+Alto do Rodrigues@RN
+Alvinópolis@MG
+Alvorada do Sul@PR
+Alvorada@RS
+Amambai@MS
+Amarante do Maranhão@MA
+Amargosa@BA
+Americana@SP
+Amparo@SP
+Ampére@PR
+Ananindeua@PA
+Anchieta@ES
+Angicos@RN
+Angra dos Reis@RJ
+Anápolis@GO
+Aparecida de Goiânia@GO
+Apodi@RN
+Apucarana@PR
+Aquidauana@MS
+Aracaju@SE
+Aracruz@ES
+Aragarças@GO
+Araguari@MG
+Araguatins@TO
+Araguaína@TO
+Arapiraca@AL
+Arapongas@PR
+Araraquara@SP
+Araras@SP
+Arari@MA
+Araripina@PE
+Araruama@RJ
+Araxá@MG
+Araçatuba@SP
+Araçuaí@MG
+Arcos@MG
+Arcoverde@PE
+Areado@MG
+Areia Branca@RN
+Ariquemes@RO
+Arraias@TO
+Artur Nogueira@SP
+Arujá@SP
+Assaré@CE
+Assis Chateaubriand@PR
+Assis@SP
+Atibaia@SP
+Augusto Corrêa@PA
+Avaré@SP
+Açu@RN
+Bacabal@MA
+Baependi@MG
+Bagé@RS
+Balneário Camboriú@SC
+Balsas@MA
+Bambuí@MG
+Bananeiras@PB
+Bandeirantes@PR
+Baraúna@RN
+Barbacena@MG
+Barbalha@CE
+Barcarena@PA
+Barra Bonita@SP
+Barra Mansa@RJ
+Barra de São Francisco@ES
+Barra do Corda@MA
+Barra do Garças@MT
+Barra@BA
+Barras@PI
+Barreiras@BA
+Barreirinhas@MA
+Barreiros@PE
+Barueri@SP
+Batalha@PI
+Batatais@SP
+Bauru@SP
+Bayeux@PB
+Bebedouro@SP
+Beberibe@CE
+Belford Roxo@RJ
+Belo Horizonte@MG
+Belo Jardim@PE
+Belém@PA
+Benevides@PA
+Bento Gonçalves@RS
+Betim@MG
+Birigui@SP
+Blumenau@SC
+Boa Esperança@MG
+Boa Vista@RR
+Bocaiúva@MG
+Bom Despacho@MG
+Bom Jesus do Itabapoana@RJ
+Bonito@PE
+Boqueirão@PB
+Boquim@SE
+Botucatu@SP
+Bragança Paulista@SP
+Bragança@PA
+Brasília de Minas@MG
+Brasília@DF
+Brejo Santo@CE
+Brejo da Madre de Deus@PE
+Breu Branco@PA
+Breves@PA
+Brumadinho@MG
+Brumado@BA
+Brusque@SC
+Buerarema@BA
+Buriticupu@MA
+Buritis@MG
+Cabo Frio@RJ
+Cabo de Santo Agostinho@PE
+Cabrobó@PE
+Cachoeira do Sul@RS
+Cachoeira@BA
+Cachoeiras de Macacu@RJ
+Cachoeiro de Itapemirim@ES
+Cacimba de Dentro@PB
+Cacoal@RO
+Caculé@BA
+Caetité@BA
+Caeté@MG
+Caicó@RN
+Caieiras@SP
+Cajamar@SP
+Cajazeiras@PB
+Cajuru@SP
+Caldas Novas@GO
+Camacan@BA
+Camaquã@RS
+Camaragibe@PE
+Camaçari@BA
+Camboriú@SC
+Cambuí@MG
+Cambé@PR
+Cametá@PA
+Campina Grande@PB
+Campinas@SP
+Campo Belo@MG
+Campo Bom@RS
+Campo Formoso@BA
+Campo Grande@MS
+Campo Largo@PR
+Campo Mourão@PR
+Campo Verde@MT
+Campo do Brito@SE
+Campos Gerais@MG
+Campos Sales@CE
+Campos dos Goytacazes@RJ
+Canaã dos Carajás@PA
+Candeias@BA
+Canela@RS
+Canguaretama@RN
+Canguçu@RS
+Canindé de São Francisco@SE
+Canoas@RS
+Capanema@PA
+Capanema@PR
+Capela@SE
+Capelinha@MG
+Capim Grosso@BA
+Capitão Poço@PA
+Capão da Canoa@RS
+Caraguatatuba@SP
+Carangola@MG
+Carapicuíba@SP
+Caratinga@MG
+Carazinho@RS
+Caraúbas@RN
+Cariacica@ES
+Cariré@CE
+Carlos Chagas@MG
+Carmo do Paranaíba@MG
+Carpina@PE
+Caruaru@PE
+Casa Nova@BA
+Cascavel@CE
+Cascavel@PR
+Castelo@ES
+Cataguases@MG
+Catalão@GO
+Catolé do Rocha@PB
+Catu@BA
+Caucaia@CE
+Caxambu@MG
+Caxias do Sul@RS
+Caçapava@SP
+Ceará-Mirim@RN
+Cedro@CE
+Cerejeiras@RO
+Ceres@GO
+Cerro Largo@RS
+Chapadinha@MA
+Chapadão do Sul@MS
+Charqueadas@RS
+Chopinzinho@PR
+Cianorte@PR
+Cidade Ocidental@GO
+Coari@AM
+Codó@MA
+Coelho Neto@MA
+Colatina@ES
+Colorado@PR
+Colíder@MT
+Comodoro@MT
+Conceição do Araguaia@PA
+Conceição do Coité@BA
+Conceição do Jacuípe@BA
+Conceição do Mato Dentro@MG
+Concórdia@SC
+Conselheiro Lafaiete@MG
+Conselheiro Pena@MG
+Contagem@MG
+Cornélio Procópio@PR
+Coroatá@MA
+Coromandel@MG
+Coronel Fabriciano@MG
+Corrente@PI
+Cosmópolis@SP
+Cotia@SP
+Coxim@MS
+Crateús@CE
+Crato@CE
+Criciúma@SC
+Cristalina@GO
+Cruz Alta@RS
+Cruzeiro do Sul@AC
+Cruzeiro@SP
+Cubatão@SP
+Cuiabá@MT
+Cuité@PB
+Curitiba@PR
+Curitibanos@SC
+Currais Novos@RN
+Curuçá@PA
+Curvelo@MG
+Custódia@PE
+Cáceres@MT
+Cândido Sales@BA
+Delmiro Gouveia@AL
+Diadema@SP
+Diamante@PB
+Diamantina@MG
+Dias d'Ávila@BA
+Divinópolis@MG
+Dois Vizinhos@PR
+Domingos Martins@ES
+Dourados@MS
+Dracena@SP
+Duque de Caxias@RJ
+Eldorado do Sul@RS
+Embu das Artes@SP
+Embu-Guaçu@SP
+Entre Rios de Minas@MG
+Erechim@RS
+Escada@PE
+Esperança@PB
+Espigão D'Oeste@RO
+Esplanada@BA
+Esteio@RS
+Estância Velha@RS
+Estância@SE
+Euclides da Cunha@BA
+Extremoz@RN
+Exu@PE
+Farias Brito@CE
+Fazenda Rio Grande@PR
+Feira de Santana@BA
+Fernandópolis@SP
+Ferraz de Vasconcelos@SP
+Floresta@PE
+Floriano@PI
+Florianópolis@SC
+Formiga@MG
+Formosa@GO
+Fortaleza@CE
+Foz do Iguaçu@PR
+Fraiburgo@SC
+Franca@SP
+Francisco Beltrão@PR
+Francisco Morato@SP
+Francisco Sá@MG
+Franco da Rocha@SP
+Frederico Westphalen@RS
+Frutal@MG
+Fátima do Sul@MS
+Gandu@BA
+Garanhuns@PE
+Glória do Goitá@PE
+Goiana@PE
+Goianinha@RN
+Goianira@GO
+Goianésia do Pará@PA
+Goianésia@GO
+Goiás@GO
+Goiânia@GO
+Governador Valadares@MG
+Grajaú@MA
+Granja@CE
+Gravataí@RS
+Gravatá@PE
+Guajará-Mirim@RO
+Guanambi@BA
+Guanhães@MG
+Guarabira@PB
+Guarapari@ES
+Guarapuava@PR
+Guararapes@SP
+Guaratinguetá@SP
+Guaraí@TO
+Guarujá@SP
+Guarulhos@SP
+Guaxupé@MG
+Guaíba@RS
+Guaíra@PR
+Guaíra@SP
+Gurupi@TO
+Horizonte@CE
+Hortolândia@SP
+Humaitá@AM
+Ibicaraí@BA
+Ibiporã@PR
+Ibirité@MG
+Ibititá@BA
+Ibiúna@SP
+Icapuí@CE
+Igaci@AL
+Igarapé-Açu@PA
+Igarapé-Miri@PA
+Igarapé@MG
+Igrejinha@RS
+Iguaba Grande@RJ
+Iguape@SP
+Iguatu@CE
+Ilhéus@BA
+Imperatriz@MA
+Inconfidentes@MG
+Indaiatuba@SP
+Independência@CE
+Ingá@PB
+Inhambupe@BA
+Inhumas@GO
+Ipatinga@MG
+Ipiaú@BA
+Ipirá@BA
+Iporá@GO
+Irati@PR
+Irecê@BA
+Itabaiana@PB
+Itabaiana@SE
+Itabaianinha@SE
+Itaberaba@BA
+Itabira@MG
+Itabirito@MG
+Itaboraí@RJ
+Itabuna@BA
+Itacoatiara@AM
+Itaguaí@RJ
+Itajubá@MG
+Itajuípe@BA
+Itamaraju@BA
+Itamarandiba@MG
+Itambé@PE
+Itaobim@MG
+Itapaci@GO
+Itapema@SC
+Itapemirim@ES
+Itaperuna@RJ
+Itapetinga@BA
+Itapetininga@SP
+Itapeva@SP
+Itapevi@SP
+Itapipoca@CE
+Itaporanga d'Ajuda@SE
+Itaporanga@PB
+Itapuranga@GO
+Itaquaquecetuba@SP
+Itaqui@RS
+Itararé@SP
+Itarema@CE
+Itatiba@SP
+Itaúna@MG
+Itu@SP
+Ituiutaba@MG
+Itumbiara@GO
+Iturama@MG
+Ituverava@SP
+Ivaiporã@PR
+Ivinhema@MS
+Jaboatão dos Guararapes@PE
+Jaboticabal@SP
+Jacaraú@PB
+Jacarezinho@PR
+Jaciara@MT
+Jacundá@PA
+Jaguaquara@BA
+Jaguariaíva@PR
+Jaguaribe@CE
+Jaguariúna@SP
+Jales@SP
+Janaúba@MG
+Jandaia do Sul@PR
+Jandira@SP
+Januária@MG
+Jaraguá do Sul@SC
+Jaraguá@GO
+Jardim@CE
+Jaru@RO
+Jataí@GO
+Jequié@BA
+Jeremoabo@BA
+Ji-Paraná@RO
+Joaçaba@SC
+Joinville@SC
+José Bonifácio@SP
+José de Freitas@PI
+João Câmara@RN
+João Lisboa@MA
+João Monlevade@MG
+João Pessoa@PB
+João Pinheiro@MG
+Juazeirinho@PB
+Juazeiro@BA
+Juiz de Fora@MG
+Jundiaí@SP
+Juquitiba@SP
+Juruti@PA
+Jussara@GO
+Ladainha@MG
+Lagarto@SE
+Lages@SC
+Lagoa Santa@MG
+Lagoa Vermelha@RS
+Lagoa da Prata@MG
+Lagoa de Itaenga@PE
+Lajeado@RS
+Lajedo@PE
+Lapa@PR
+Laranjal do Jari@AP
+Laranjeiras do Sul@PR
+Lauro de Freitas@BA
+Lavras da Mangabeira@CE
+Lavras@MG
+Leme@SP
+Lençóis Paulista@SP
+Leopoldina@MG
+Limeira@SP
+Limoeiro do Ajuru@PA
+Limoeiro do Norte@CE
+Linhares@ES
+Livramento de Nossa Senhora@BA
+Loanda@PR
+Londrina@PR
+Lontra@MG
+Lorena@SP
+Lucas do Rio Verde@MT
+Luziânia@GO
+Luís Eduardo Magalhães@BA
+Macapá@AP
+Macau@RN
+Macaé@RJ
+Macaíba@RN
+Macaúbas@BA
+Maceió@AL
+Machadinho D'Oeste@RO
+Machado@MG
+Magé@RJ
+Mairinque@SP
+Mairiporã@SP
+Mamanguape@PB
+Manacapuru@AM
+Manaus@AM
+Manhuaçu@MG
+Marabá@PA
+Maracaju@MS
+Maracás@BA
+Maranguape@CE
+Marau@RS
+Maravilha@SC
+Marechal Cândido Rondon@PR
+Mariana@MG
+Maricá@RJ
+Maringá@PR
+Marituba@PA
+Marília@SP
+Massapê@CE
+Matinhos@PR
+Matozinhos@MG
+Matão@SP
+Mauriti@CE
+Mauá@SP
+Medianeira@PR
+Mesquita@RJ
+Milagres@CE
+Mimoso do Sul@ES
+Minas Novas@MG
+Minaçu@GO
+Mineiros@GO
+Miracema do Tocantins@TO
+Mirandiba@PE
+Mocajuba@PA
+Mococa@SP
+Mogi Guaçu@SP
+Mogi das Cruzes@SP
+Moju@PA
+Monte Alto@SP
+Monte Aprazível@SP
+Monte Azul@MG
+Monte Carmelo@MG
+Monte Sião@MG
+Monteiro@PB
+Montenegro@RS
+Montes Claros@MG
+Morada Nova@CE
+Moreno@PE
+Morrinhos@GO
+Mossoró@RN
+Muriaé@MG
+Mutuípe@BA
+Muzambinho@MG
+Mãe do Rio@PA
+Nanuque@MG
+Natal@RN
+Navegantes@SC
+Naviraí@MS
+Nazaré da Mata@PE
+Nazaré@BA
+Nerópolis@GO
+Nilópolis@RJ
+Niterói@RJ
+Nossa Senhora da Glória@SE
+Nossa Senhora das Dores@SE
+Nossa Senhora do Socorro@SE
+Nova Andradina@MS
+Nova Cruz@RN
+Nova Era@MG
+Nova Friburgo@RJ
+Nova Iguaçu@RJ
+Nova Lima@MG
+Nova Odessa@SP
+Nova Olinda@CE
+Nova Prata@RS
+Nova Russas@CE
+Nova Serrana@MG
+Novo Gama@GO
+Novo Hamburgo@RS
+Nísia Floresta@RN
+Olho d'Água das Flores@AL
+Olinda@PE
+Oliveira@MG
+Olímpia@SP
+Oriximiná@PA
+Orleans@SC
+Orlândia@SP
+Orobó@PE
+Osasco@SP
+Osvaldo Cruz@SP
+Osório@RS
+Ouricuri@PE
+Ourinhos@SP
+Ouro Branco@MG
+Ouro Preto do Oeste@RO
+Ouro Preto@MG
+Pacajus@CE
+Pacatuba@CE
+Palhoça@SC
+Palmares@PE
+Palmas de Monte Alto@BA
+Palmas@TO
+Palmitos@SC
+Palotina@PR
+Panambi@RS
+Paracatu@MG
+Paragominas@PA
+Paraguaçu Paulista@SP
+Paranaguá@PR
+Paranavaí@PR
+Paranaíba@MS
+Paraopeba@MG
+Parauapebas@PA
+Paraíso do Tocantins@TO
+Parelhas@RN
+Parnamirim@RN
+Parnaíba@PI
+Pará de Minas@MG
+Passo Fundo@RS
+Passos@MG
+Pato Branco@PR
+Patos de Minas@MG
+Patos@PB
+Patrocínio@MG
+Patu@RN
+Pau dos Ferros@RN
+Paudalho@PE
+Paulista@PE
+Paulo Afonso@BA
+Paulínia@SP
+Paço do Lumiar@MA
+Pederneiras@SP
+Pedreiras@MA
+Pedro II@PI
+Pedro Leopoldo@MG
+Pelotas@RS
+Penedo@AL
+Pentecoste@CE
+Penápolis@SP
+Peruíbe@SP
+Petrolina@PE
+Petrolândia@PE
+Petrópolis@RJ
+Piancó@PB
+Picos@PI
+Picuí@PB
+Piedade@SP
+Pilar do Sul@SP
+Pimenta Bueno@RO
+Pindamonhangaba@SP
+Pinheiros@ES
+Piracanjuba@GO
+Piracicaba@SP
+Piracuruca@PI
+Piraju@SP
+Pirapora@MG
+Piripiri@PI
+Pitanga@PR
+Pitangui@MG
+Piumhi@MG
+Planaltina@GO
+Pombal@PB
+Ponta Grossa@PR
+Ponta Porã@MS
+Pontal@SP
+Porangatu@GO
+Porteirinha@MG
+Portel@PA
+Porto Alegre@RS
+Porto Calvo@AL
+Porto Franco@MA
+Porto Nacional@TO
+Porto Seguro@BA
+Porto da Folha@SE
+Posse@GO
+Pouso Alegre@MG
+Poá@SP
+Poço Verde@SE
+Poços de Caldas@MG
+Poções@BA
+Praia Grande@SP
+Presidente Dutra@MA
+Presidente Epitácio@SP
+Presidente Prudente@SP
+Presidente Venceslau@SP
+Primavera do Leste@MT
+Promissão@SP
+Propriá@SE
+Queimadas@PB
+Quirinópolis@GO
+Quixadá@CE
+Rancharia@SP
+Raposa@MA
+Realeza@PR
+Recife@PE
+Redenção@CE
+Redenção@PA
+Regeneração@PI
+Registro@SP
+Remanso@BA
+Resende@RJ
+Riachão do Jacuípe@BA
+Ribeirão Pires@SP
+Ribeirão Preto@SP
+Ribeirão das Neves@MG
+Ribeirão@PE
+Rio Bonito@RJ
+Rio Branco do Sul@PR
+Rio Branco@AC
+Rio Claro@SP
+Rio Formoso@PE
+Rio Grande da Serra@SP
+Rio Grande@RS
+Rio Largo@AL
+Rio Tinto@PB
+Rio Verde@GO
+Rio das Ostras@RJ
+Rio de Janeiro@RJ
+Rolim de Moura@RO
+Rolândia@PR
+Rosário@MA
+Rurópolis@PA
+Russas@CE
+Sabará@MG
+Salgueiro@PE
+Salinas@MG
+Salinópolis@PA
+Salto@SP
+Salvador@BA
+Salvaterra@PA
+Sant'Ana do Livramento@RS
+Santa Bárbara d'Oeste@SP
+Santa Bárbara@MG
+Santa Cruz do Rio Pardo@SP
+Santa Cruz do Sul@RS
+Santa Cruz@RN
+Santa Fé do Sul@SP
+Santa Izabel do Pará@PA
+Santa Luzia@MG
+Santa Luzia@PB
+Santa Maria da Boa Vista@PE
+Santa Maria do Suaçuí@MG
+Santa Maria@RS
+Santa Quitéria@CE
+Santa Rita do Sapucaí@MG
+Santa Rita@PB
+Santa Teresa@ES
+Santa Vitória do Palmar@RS
+Santana de Parnaíba@SP
+Santana@AP
+Santarém@PA
+Santiago@RS
+Santo Amaro@BA
+Santo André@SP
+Santo Antônio da Patrulha@RS
+Santo Antônio da Platina@PR
+Santo Antônio de Pádua@RJ
+Santo Antônio do Descoberto@GO
+Santo Antônio@RN
+Santo Estêvão@BA
+Santo Ângelo@RS
+Santos Dumont@MG
+Santos@SP
+Sapiranga@RS
+Sapé@PB
+Saquarema@RJ
+Sena Madureira@AC
+Senador Canedo@GO
+Senador Guiomard@AC
+Senhor do Bonfim@BA
+Serra Talhada@PE
+Serra@ES
+Serrana@SP
+Sertãozinho@SP
+Sete Lagoas@MG
+Silvânia@GO
+Simão Dias@SE
+Simões Filho@BA
+Sinop@MT
+Sobradinho@RS
+Socorro@SP
+Soledade@RS
+Solânea@PB
+Sombrio@SC
+Sorocaba@SP
+Sorriso@MT
+Soure@PA
+Sousa@PB
+Sumaré@SP
+Sumé@PB
+Surubim@PE
+Suzano@SP
+São Bento do Sul@SC
+São Bento@PB
+São Bernardo do Campo@SP
+São Bernardo@MA
+São Borja@RS
+São Caetano do Sul@SP
+São Carlos@SP
+São Cristóvão@SE
+São Fidélis@RJ
+São Francisco@MG
+São Gabriel da Palha@ES
+São Gabriel@RS
+São Gonçalo do Amarante@CE
+São Gonçalo do Amarante@RN
+São Gonçalo do Sapucaí@MG
+São Gonçalo@RJ
+São Gotardo@MG
+São Joaquim da Barra@SP
+São José da Tapera@AL
+São José de Mipibu@RN
+São José de Ribamar@MA
+São José do Belmonte@PE
+São José do Egito@PE
+São José do Rio Preto@SP
+São José dos Campos@SP
+São José dos Pinhais@PR
+São José@SC
+São João Evangelista@MG
+São João Nepomuceno@MG
+São João da Boa Vista@SP
+São João de Meriti@RJ
+São João del Rei@MG
+São João do Piauí@PI
+São João do Rio do Peixe@PB
+São João dos Patos@MA
+São Lourenço do Sul@RS
+São Lourenço@MG
+São Luiz Gonzaga@RS
+São Luís do Quitunde@AL
+São Luís@MA
+São Mateus do Maranhão@MA
+São Miguel do Araguaia@GO
+São Miguel do Guamá@PA
+São Miguel dos Campos@AL
+São Miguel@RN
+São Paulo@SP
+São Pedro da Aldeia@RJ
+São Roque@SP
+São Sebastião do Paraíso@MG
+São Sebastião do Passé@BA
+São Sebastião@SP
+São Vicente@SP
+Sítio Novo do Tocantins@TO
+Tabira@PE
+Taboão da Serra@SP
+Tailândia@PA
+Taiobeiras@MG
+Tamboril@CE
+Tangará da Serra@MT
+Tapejara@RS
+Taquara@RS
+Taquari@RS
+Taquaritinga@SP
+Taubaté@SP
+Tauá@CE
+Tefé@AM
+Teixeira de Freitas@BA
+Telêmaco Borba@PR
+Teotônio Vilela@AL
+Teresina@PI
+Teresópolis@RJ
+Teutônia@RS
+Teófilo Otoni@MG
+Tianguá@CE
+Tietê@SP
+Tijucas@SC
+Timbaúba@PE
+Timbiras@MA
+Timon@MA
+Timóteo@MG
+Tobias Barreto@SE
+Tocantinópolis@TO
+Toledo@PR
+Tomé-Açu@PA
+Torres@RS
+Tramandaí@RS
+Triunfo@PE
+Três Corações@MG
+Três Lagoas@MS
+Três Passos@RS
+Três Pontas@MG
+Três Rios@RJ
+Tubarão@SC
+Tucumã@PA
+Tucuruí@PA
+Tupã@SP
+Ubaitaba@BA
+Ubatuba@SP
+Uberaba@MG
+Uberlândia@MG
+Ubá@MG
+Umarizal@RN
+Umbaúba@SE
+Umuarama@PR
+União da Vitória@PR
+União@PI
+Uruaçu@GO
+Uruguaiana@RS
+Uruçuí@PI
+Vacaria@RS
+Valente@BA
+Valença do Piauí@PI
+Valença@BA
+Valença@RJ
+Valinhos@SP
+Valparaíso de Goiás@GO
+Varginha@MG
+Vassouras@RJ
+Vazante@MG
+Venda Nova do Imigrante@ES
+Vera Cruz@BA
+Vera Cruz@RN
+Vespasiano@MG
+Viamão@RS
+Vigia@PA
+Vila Velha@ES
+Vilhena@RO
+Vinhedo@SP
+Visconde do Rio Branco@MG
+Vitória da Conquista@BA
+Vitória de Santo Antão@PE
+Vitória@ES
+Viçosa@AL
+Viçosa@MG
+Volta Redonda@RJ
+Votorantim@SP
+Votuporanga@SP
+Várzea Alegre@CE
+Várzea Grande@MT
+Várzea Paulista@SP
+Xanxerê@SC
+Xinguara@PA
+Xique-Xique@BA
+Zé Doca@MA
+Água Branca@AL
+Água Branca@PI
+Águas Formosas@MG
+Águas Lindas de Goiás@GO
+Óbidos@PA
