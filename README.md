@@ -4,7 +4,7 @@ Repository for files involved in the project
 in Brazilian Municipalities and Its Relationship
 with Student Performance' for the
 _Introduction to Statistics and Computation with Data_
-at ISI Bangalore.
+course at ISI Bangalore.
 
 ## Organisation
 - `plots`: Plots accompanying the results
